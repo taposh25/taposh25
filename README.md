@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Taposh Barai
 
-🚀 **MERN Stack Developer | JavaScript Enthusiast | Problem Solver**
+🚀 **MERN Stack Developer | JavaScript Enthusiast | React Web Developer**
 
 ---
 
@@ -24,6 +24,9 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 * React.js
 * React Router
 * TanStack Query
+* React-Hook Form
+* Leaflet
+* Axios
 
 ### Backend
 
@@ -35,15 +38,15 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 ### Database
 
 * MongoDB
-* Mongoose
+
 
 ### Tools & Platforms
 
 * Git & GitHub
 * Firebase Authentication
 * Stripe Payment Integration
-* Vercel / Netlify
-* Postman
+* Vercel / Netlify / Surgey / Firebase
+  
 
 ---
 
@@ -51,7 +54,7 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 
 ### 📚 Book Courier / Book Query Platform
 
-* Role-based authentication (Admin, User, Rider)
+* Role-based authentication (Admin, User, Rider, books)
 * Secure REST APIs
 * Dashboard with protected routes
 * Stripe payment integration
@@ -73,7 +76,7 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taposh25\&show_icons=true\&theme=react)
+![GitHub Stats](https://vercel.com/taposh-barais-projects)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taposh25\&layout=compact\&theme=react)
 
@@ -81,9 +84,9 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *Add your LinkedIn URL here*
-* 🌐 Portfolio: *Add your portfolio link here*
-* 📧 Email: *Add your email address here*
+* 💼 LinkedIn: https://www.linkedin.com/in/taposh-barai-03s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 🌐 Portfolio: 
+* 📧 Email: taposhbarai03@gmail.com
 
 ---
 
